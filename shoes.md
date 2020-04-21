@@ -1,0 +1,3 @@
+- Nov. 25, 2017: Brooks BEAST, size 12, Hearbreak Hill Running Company ($128)
+- May 20, 2018: Ghost 10, Size 12.5 & New Balance 880 v8, 12.5 ($224 for 2 pairs)
+- Nov. 25, 2018: Ghost 11, Size 12.5
