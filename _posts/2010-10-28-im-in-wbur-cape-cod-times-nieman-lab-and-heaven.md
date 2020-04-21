@@ -1,0 +1,12 @@
+---
+layout: post
+title: I'm in WBUR, Cape Cod Times, Nieman Lab ... and heaven
+created: 1288280299
+---
+<span class="inline inline-right"><a href="http://necir-bu.org/wp/the-pocantico-declaration-creating-a-nonprofit-investigative-news-network/investigations/grim-cycle-of-falls-and-fines-plagues-state-construction-industry/grim-cycle-of-falls-and-fines-plagues-state-construction-industry-interactive"><img src="http://morisy.com/files/images/1017_falls-fines-interactive_thumb.png" alt="" title=""  class="image image-_original " width="300" height="218" /></a></span>So lately I've been super busy, with a half-written blog post about <i>The Social Network</i> just sitting in my drafts, but I completely forgot to mention something even more important (I know: More important than that?!): I've recently had my work features all over the place!
+
+Most of it is due to a part-time position I've taken as web producer for the <a href="http://necir-bu.org/">New England Center for Investigative Reporting</a> as their web producer. It's been a fantastic experience and really pushed my web skills. Each month, I'm creating an interactive package to go alongside their hard hitting news stories. This past month, I did <a href="http://necir-bu.org/wp/the-pocantico-declaration-creating-a-nonprofit-investigative-news-network/investigations/grim-cycle-of-falls-and-fines-plagues-state-construction-industry/grim-cycle-of-falls-and-fines-plagues-state-construction-industry-interactive-map/">an interactive map</a> that let Massachusetts residents see where construction sites falling deaths occurred, and the fines attached to those deaths.
+
+So for a little while, my interactive was on the <a href="http://www.wbur.org/2010/10/17/falls-fines">front page of WBUR</a>, as well as a host of other great media organizations including the Cape Cod Times, The Worcester Telegram-Gazette and <a href="http://necir-bu.org/wp/the-pocantico-declaration-creating-a-nonprofit-investigative-news-network/investigations/grim-cycle-of-falls-and-fines-plagues-state-construction-industry/">more</a>.
+
+I was also profiled by the Nieman Lab for the <a href="http://www.niemanlab.org/2010/10/muckrock-makes-foia-requests-easy-but-will-reporters-use-it/">FOIA work MuckRock is doing</a>. I've been a fanboy of Nieman Lab for as long as I've known it's been around, and I think I actually passed out the first time I met Joshua Benton, so it was a very surreal, very excellent experience seeing myself quoted by them.
