@@ -1,0 +1,15 @@
+---
+title: "Random Regex Snippets"
+layout: post
+date: 2022-02-06 10:44 −05:00
+---
+
+Just need a place to store these. Will hopefully add over time:
+
+### Extracting Datetime
+
+Was trying to extract the datetime from some MuckRock html pages, and this was helpful interms of pulling just the date out of a given page:
+
+```
+datetime=.*\"
+```
