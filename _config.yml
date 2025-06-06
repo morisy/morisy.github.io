@@ -6,6 +6,9 @@ title: Instant History
 # Short description of your site
 description: Michael Morisy's long-running (with many long rests) blog on media and technology.
 
+# Your name to show in the footer
+author: Michael Morisy
+
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
@@ -172,6 +175,21 @@ paginate: 5
 
 kramdown:
   input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
@@ -259,6 +277,12 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-mentions
+  - jekyll-redirect-from
+  - jemoji
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
